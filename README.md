@@ -381,12 +381,20 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-28
 
-- [ ] 1 round:
+- [x] 5x rounds of (warm up):
+  - 20x push-ups
+  - 20x squats
+
+- [x] 1 round of:
   - 50x KB Deadlift (*5 sets of 10*)
   - 40x KB Clean (*5 sets of 8*)
   - 30x KB Push Press (*6 sets of 5*)
   - 20x KB Front Squat (*4 sets of 5*)
   - 10x KB Cluster (*however you can*)
+
+*supplemental ab work*
+
+https://vimeo.com/542951470
 
 ## 2021-04-27
 
