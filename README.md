@@ -381,24 +381,25 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-04-28
 
-- [ ] 3-6-9-12-15 reps of:
-  - Squats
-  - Push-Ups
-  - Overhead Sit-Ups
-
-- [ ] 3-6-9-12-15 reps of:
-  - Burpees
-  - Reverse Lunges
-  - Step-Ups
-
-## 2021-04-27
-
 - [ ] 1 round:
   - 50x KB Deadlift (*5 sets of 10*)
   - 40x KB Clean (*5 sets of 8*)
   - 30x KB Push Press (*6 sets of 5*)
   - 20x KB Front Squat (*4 sets of 5*)
   - 10x KB Cluster (*however you can*)
+
+## 2021-04-27
+
+- [x] 3-6-9-12-15 reps of:
+  - Squats
+  - Push-Ups
+  - Overhead Sit-Ups
+
+- [x] 3-6-9-12-15 reps of:
+  - Burpees
+  - Reverse Lunges
+  - Step-Ups
+
 
 ## 2021-04-26
 
