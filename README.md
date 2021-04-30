@@ -368,11 +368,17 @@ These are some demos of the typical exercises you'll find in the workouts:
 - [ ] 5x rounds of:
   - 10x banded bicep curls
   - 10x banded tricep pull-downs
-  - 10x KB swings
+  - 10x KB goblet squats 
   - 10x hand-release push-ups
   - 10x reverse crunches
 
 ## 2021-04-29
+
+- [ ] warm up:
+  - rope x 2 songs
+  - shoulders (bands)
+  - hips (sling shot)
+
 
 - [ ] 10-9-8-7-6-5-4-3-2-1 reps of:
   - Push-Press (@45#)
