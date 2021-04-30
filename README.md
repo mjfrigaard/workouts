@@ -376,7 +376,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 - [ ] 10-9-8-7-6-5-4-3-2-1 reps of:
   - Push-Press (@45#)
-  - Sit-Ups
+  - KB swings (@70#)
   - Ball Slams (@25#)
 
 ## 2021-04-28
