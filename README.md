@@ -358,32 +358,34 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-01
 
-- [ ] EMOM x 24 min
+- [x] EMOM x 24 min
   - 10x lateral burpees over DBs
   - 10x weighted step-ups
   - 10x single arm DB clean and jerks
 
 ## 2021-04-30
 
-- [ ] 5x rounds of:
+- [x] 5x rounds of:
   - 10x banded bicep curls
   - 10x banded tricep pull-downs
-  - 10x KB goblet squats 
+  - 10x KB goblet squats
   - 10x hand-release push-ups
   - 10x reverse crunches
 
 ## 2021-04-29
 
-- [ ] warm up:
+- [x] warm up:
   - rope x 2 songs
   - shoulders (bands)
   - hips (sling shot)
 
 
-- [ ] 10-9-8-7-6-5-4-3-2-1 reps of:
+- [x] 10-9-8-7-6-5-4-3-2-1 reps of:
   - Push-Press (@45#)
   - KB swings (@70#)
   - Ball Slams (@25#)
+
+
 
 ## 2021-04-28
 
