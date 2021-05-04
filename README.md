@@ -9,6 +9,10 @@ Daily Dose (workout log)
 
 * [2021 Workouts](#2021-workouts)
 
+   * [2021-05-05](#2021-05-05)
+   * [2021-05-04](#2021-05-04)
+   * [2021-05-03](#2021-05-03)
+   * [2021-05-02](#2021-05-02)
    * [2021-05-01](#2021-05-01)
    * [2021-04-30](#2021-04-30)
    * [2021-04-29](#2021-04-29)
@@ -356,6 +360,37 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-05-05
+
+- 5x rounds of:
+  - 40m Farmer Carry (@53#)
+  - 20x Burpees 
+
+## 2021-05-04
+
+- [ ] 10x rounds of:
+  - 10x Sit-Ups
+  - 15x Push-Ups
+  - 20x Squats
+  - 25x Double-Unders
+
+## 2021-05-03
+
+Warm up:
+- [x] perfect your jump shot
+
+Workout:
+- [x] EMOM x 21 min
+  - 25x Double-Unders
+  - 10x DB split squat
+  - 12x DB bench press
+
+## 2021-05-02
+
+- [x] 50x reps of:
+  - D-ball Tosses (@90#)
+  - Ground-To-Overhead (@45#)
+
 ## 2021-05-01
 
 - [x] EMOM x 24 min
@@ -503,7 +538,7 @@ https://vimeo.com/538995278
 ## 2021-04-17
 
 - [x] EMOM x24 min
-  - 25x double unders
+  - 25x Double-Unders
   - 5x D-ball tosses (@90#)
   - 10x KB snatches (@70#)
 
