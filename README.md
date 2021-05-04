@@ -364,7 +364,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 - 5x rounds of:
   - 40m Farmer Carry (@53#)
-  - 20x Burpees 
+  - 20x Burpees
 
 ## 2021-05-04
 
@@ -384,6 +384,8 @@ Workout:
   - 25x Double-Unders
   - 10x DB split squat
   - 12x DB bench press
+
+https://vimeo.com/544839037
 
 ## 2021-05-02
 
