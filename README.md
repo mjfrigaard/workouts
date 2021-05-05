@@ -360,11 +360,15 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-05-07
+
+## 2021-05-06
+
 ## 2021-05-05
 
-- 5x rounds of:
-  - 40m Farmer Carry (@53#)
-  - 20x Burpees
+- [ ] EMOM x22 min:
+  - 10x KB Swings
+  - 10x DB Burpees
 
 ## 2021-05-04
 
