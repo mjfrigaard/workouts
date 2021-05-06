@@ -366,13 +366,17 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-05
 
-- [ ] EMOM x22 min:
+- [x] EMOM x22 min:
   - 10x KB Swings
-  - 10x DB Burpees
+  - 6x DB Burpees
+
+*supplemental ab work*
+
+
 
 ## 2021-05-04
 
-- [ ] 10x rounds of:
+- [x] 10x rounds of:
   - 10x Sit-Ups
   - 15x Push-Ups
   - 20x Squats
