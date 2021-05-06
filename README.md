@@ -372,7 +372,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 *supplemental ab work*
 
-
+https://vimeo.com/545766080
 
 ## 2021-05-04
 
