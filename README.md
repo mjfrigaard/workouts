@@ -364,9 +364,14 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-07
 
+- [x] 100 reps of:
+- Devil's thruster (@40#)
+
+https://vimeo.com/546756549
+
 ## 2021-05-06
 
-- [ ] 8x rounds of:
+- [x] 8x rounds of:
   - 40x Meter Farmer Walk (2x @53#)
   - 16x Seated Curl & Press
   - 25x Double-Unders
