@@ -397,15 +397,15 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-05-13
 
 - [ ] 6 rounds:
- - 12x DB Bench Press
- - 14x TB Seated Curls
- - 20x Double-Unders
+  - 12x DB Bench Press
+  - 14x TB Seated Curls
+  - 20x Double-Unders
 
 ## 2021-05-12
 
 - [ ] EMOM x 15 minutes
- - (Double DB snatch + Double DB Clean) x 6 (@30#)
- - 5x Burpee-over-DBs
+  - (Double DB snatch + Double DB Clean) x 6 (@30#)
+  - 5x Burpee-over-DBs
 
 ## 2021-05-11
 
