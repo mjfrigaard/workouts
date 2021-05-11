@@ -381,8 +381,12 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-05-10
 
 - [ ] EMOM x20 minutes
-  - 4x Single Arm DB Snatch + 4x Single Arm DB Overhead Lunge (R)
-  - 4x Single Arm DB Snatch + 4x Single Arm DB Overhead Lunge (L)
+  - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (R)
+  - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (L)
+
+*supplemental ab work*
+
+https://vimeo.com/547776366
 
 ## 2021-05-09
 
@@ -396,7 +400,7 @@ https://vimeo.com/547223302
 
 - [x] 5-10-15-20-15-10-5 reps of:
   - Double-Unders
-  - DB Clean & Front Squat 
+  - DB Clean & Front Squat
 
 ## 2021-05-07
 
