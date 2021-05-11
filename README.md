@@ -9,6 +9,9 @@ Daily Dose (workout log)
 
 * [2021 Workouts](#2021-workouts)
 
+   * [2021-05-16](#2021-05-16)
+   * [2021-05-15](#2021-05-15)
+   * [2021-05-14](#2021-05-14)
    * [2021-05-13](#2021-05-13)
    * [2021-05-12](#2021-05-12)
    * [2021-05-11](#2021-05-11)
@@ -368,7 +371,32 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-05-16
+
+## 2021-05-15
+
+## 2021-05-14
+
+- [ ] 4x rounds of:
+  - 20x Squats
+  - 20x Pushups
+  - 20x KB Swings
+  - 20x Lunges
+  - 20x Sit-Ups
+  - 20x Step-Ups
+
+## 2021-05-13
+
+- [ ] 6 rounds:
+ - 12x DB Bench Press
+ - 14x TB Seated Curls
+ - 20x Double-Unders
+
 ## 2021-05-12
+
+- [ ] EMOM x 15 minutes
+ - (Double DB snatch + Double DB Clean) x 6 (@30#)
+ - 5x Burpee-over-DBs
 
 ## 2021-05-11
 
@@ -380,7 +408,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-10
 
-- [ ] EMOM x20 minutes
+- [x] EMOM x20 minutes
   - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (R)
   - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (L)
 
