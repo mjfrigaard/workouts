@@ -9,6 +9,12 @@ Daily Dose (workout log)
 
 * [2021 Workouts](#2021-workouts)
 
+   * [2021-05-13](#2021-05-13)
+   * [2021-05-12](#2021-05-12)
+   * [2021-05-11](#2021-05-11)
+   * [2021-05-10](#2021-05-10)
+   * [2021-05-09](#2021-05-09)
+   * [2021-05-08](#2021-05-08)
    * [2021-05-07](#2021-05-07)
    * [2021-05-06](#2021-05-06)
    * [2021-05-05](#2021-05-05)
@@ -362,10 +368,40 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-05-12
+
+## 2021-05-11
+
+- [ ] 5 rounds of:
+  - 10x KB snatches
+  - 12x Weighted Sit-Ups
+  - 15x Pushups
+  - 20x Double-Unders
+
+## 2021-05-10
+
+- [ ] EMOM x20 minutes
+  - 4x Single Arm DB Snatch + 4x Single Arm DB Overhead Lunge (R)
+  - 4x Single Arm DB Snatch + 4x Single Arm DB Overhead Lunge (L)
+
+## 2021-05-09
+
+- [x] EMOM x10 minutes
+  - 20x KB switch-hand-swings
+  - 5x TB snatch + thruster
+
+https://vimeo.com/547223302
+
+## 2021-05-08
+
+- [x] 5-10-15-20-15-10-5 reps of:
+  - Double-Unders
+  - DB Clean & Front Squat 
+
 ## 2021-05-07
 
 - [x] 100 reps of:
-- Devil's thruster (@40#)
+  - Devil's thruster (@40#)
 
 https://vimeo.com/546756549
 
