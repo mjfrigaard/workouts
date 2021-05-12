@@ -371,6 +371,13 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-05-17
+
+- [ ] 6 rounds:
+  - 12x DB Bench Press
+  - 14x TB Seated Curls
+  - 20x Double-Unders
+
 ## 2021-05-16
 
 - [ ] 50x reps of:
@@ -380,8 +387,9 @@ These are some demos of the typical exercises you'll find in the workouts:
 ## 2021-05-15
 
 - [ ] 5-10-15-20-15-10-5 reps of:
-  - Goblet Squats
-  - Push Press
+  - KB Goblet Squats
+  - KB Push Press
+  - DB row
   - KB Cleans
 
 ## 2021-05-14
@@ -396,24 +404,26 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-13
 
-- [ ] 6 rounds:
-  - 12x DB Bench Press
-  - 14x TB Seated Curls
-  - 20x Double-Unders
+  - [ ] EMOM x 15 minutes
+    - (Double DB snatch + Double DB Clean) x 6 (@30#)
+    - 5x Burpee-over-DBs
 
 ## 2021-05-12
 
-- [ ] EMOM x 15 minutes
-  - (Double DB snatch + Double DB Clean) x 6 (@30#)
-  - 5x Burpee-over-DBs
+- [ ] 5x rounds of:
+  - 10x DB thrusters
+  - 20x DB Offset Lunges (one up/one down)
+  - 30x Double Unders
 
 ## 2021-05-11
+
+<*rest day*>
 
 - [ ] 5 rounds of:
   - 10x KB snatches
   - 12x Weighted Sit-Ups
-  - 15x Pushups
-  - 20x Double-Unders
+  - 14x Pushups
+  - 25x Double-Unders
 
 ## 2021-05-10
 
