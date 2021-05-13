@@ -9,6 +9,7 @@ Daily Dose (workout log)
 
 * [2021 Workouts](#2021-workouts)
 
+   * [2021-05-17](#2021-05-17)
    * [2021-05-16](#2021-05-16)
    * [2021-05-15](#2021-05-15)
    * [2021-05-14](#2021-05-14)
@@ -410,10 +411,12 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-12
 
-- [ ] 5x rounds of:
+- [x] 5x rounds of:
   - 10x DB thrusters
   - 20x DB Offset Lunges (one up/one down)
   - 30x Double Unders
+
+https://vimeo.com/548668862
 
 ## 2021-05-11
 
