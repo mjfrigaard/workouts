@@ -381,33 +381,34 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-16
 
-- [ ] 50x reps of:
-  - Devil's press
-  - D-ball tosses
-
-## 2021-05-15
-
 - [ ] 5-10-15-20-15-10-5 reps of:
   - KB Goblet Squats
   - KB Push Press
   - DB row
   - KB Cleans
 
+## 2021-05-15
+
+- [ ] 50x reps of:
+  - Devil's press
+  - D-ball tosses
+
 ## 2021-05-14
 
-- [ ] 4x rounds of:
-  - 20x Squats
-  - 20x Pushups
-  - 20x KB Swings
-  - 20x Lunges
-  - 20x Sit-Ups
-  - 20x Step-Ups
+- [x] EMOM x 15 minutes:
+  - 6x Double DB snatch + Double DB Clean  (@40#)
+  - 6x Burpee-over-DBs
+
+https://vimeo.com/549524806
 
 ## 2021-05-13
 
-  - [ ] EMOM x 15 minutes
-    - (Double DB snatch + Double DB Clean) x 6 (@30#)
-    - 5x Burpee-over-DBs
+- [x] 6 rounds of:
+- 20x squats
+- 12x TB seated curls
+- 12x DB bench
+
+https://vimeo.com/549138238
 
 ## 2021-05-12
 
