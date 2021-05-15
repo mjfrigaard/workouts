@@ -153,24 +153,30 @@ Daily Dose (workout log)
 
 This is a daily workout log.
 
-+ [GitHub repo](https://github.com/mjfrigaard/Workouts)
++ [GitHub repo](https://github.com/mjfrigaard/daily-dose)
 + Video demos [here](https://vimeo.com/user124837051)
 + The `README.md` file contains workouts back to `2020-06-27`
-+ The [`img/`](https://github.com/mjfrigaard/workouts/tree/main/img) folder contains image files for daily workouts by year:
-  + [`2021/`](https://github.com/mjfrigaard/workouts/tree/main/img/2021)
-  + [`2020/`](https://github.com/mjfrigaard/workouts/tree/main/img/2020)
-    + The `img/2020/` folder contains sub-folders for workouts by type:
+  + [`2021/`](https://github.com/mjfrigaard/workouts/tree/main/2021)
+  + [`2020/`](https://github.com/mjfrigaard/workouts/tree/main/2020)
+    + The `2020/` folder contains sub-folders for workouts by type:
+
     ```
-    2020/
-        ├── 2020-barbell
-        ├── 2020-bw
-        ├── 2020-dballs
-        ├── 2020-dbs
-        ├── 2020-emoms
-        ├── 2020-KBs
-        ├── 2020-misc
-        ├── 2020-slam-balls
-        └── 2020-Work-rest
+    ├── 2020/
+    │   ├── 2020-barbell/
+    │   ├── 2020-bw/
+    │   ├── 2020-dballs/
+    │   ├── 2020-dbs/
+    │   ├── 2020-emoms/
+    │   ├── 2020-kbs/
+    │   ├── 2020-misc/
+    │   ├── 2020-slam-balls/
+    │   ├── 2020-work-rest/
+    │   └── README.md
+    ├── 2021/
+    ├── README.md
+    ├── _config.yml
+    ├── notes.md
+    └── scratch.md
     ```
 ***
 
@@ -218,7 +224,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 - [ ] 50x reps of:
   - Devil's press (@50#)
-  - D-ball tosses (@90#)  
+  - D-ball tosses (@90#)
 
 ## 2021-05-14
 
