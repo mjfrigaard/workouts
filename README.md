@@ -214,17 +214,21 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-16
 
+- [x] 50x reps of:
+  - Devil's press (@50#)
+  - D-ball tosses (@90#)
+
+https://vimeo.com/550038038
+
+## 2021-05-15
+
+<*rest*>
+
 - [ ] 5-10-15-20-15-10-5 reps of:
   - KB Goblet Squats
   - KB Push Press
   - DB row
   - KB Cleans
-
-## 2021-05-15
-
-- [ ] 50x reps of:
-  - Devil's press (@50#)
-  - D-ball tosses (@90#)
 
 ## 2021-05-14
 
