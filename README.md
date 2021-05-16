@@ -214,8 +214,9 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-16
 
-- [x] 50x reps of:
-  - Devil's press (@50#)
+- [x] 100 reps of:
+  - DB snatches (@50#)
+- [x] 50 reps of:
   - D-ball tosses (@90#)
 
 https://vimeo.com/550038038
