@@ -20,7 +20,7 @@ Copy and paste into `README.md`
 ***
 
 - [ ] Home/Travel Workout
-Warm Up:  
+Warm Up:
  - 5-10 minutes of stretching
  - 10-15 minutes of shadow boxing
 Workout:
@@ -29,8 +29,8 @@ Workout:
  - 5×25 chair/stair dips
  - 5×25 plank to push ups
  - 5×25 sit ups
- - 10×60 second jump rope rounds  
-**Keep in mind, this can be made into a circuit like this:**  
+ - 10×60 second jump rope rounds
+**Keep in mind, this can be made into a circuit like this:**
 - [ ] 5 Rounds for time:
  - 60 second jump rope
  - 25 pushups
@@ -39,8 +39,8 @@ Workout:
  - 25 plank to push ups
  - 25 sit ups
  - 60 second jump rope
- - 30 second break  
-*Quick dumbbell alternatives to add into your workout:*  
+ - 30 second break
+*Quick dumbbell alternatives to add into your workout:*
  - Dumbbell Clean and Press
  - Dumbbell Thrusters
  - Arnold Press
