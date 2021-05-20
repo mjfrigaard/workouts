@@ -197,18 +197,60 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 # 2021 Workouts
 
+## 2021-05-23
+
+- [ ] 5 rounds:
+  - 5x Dual DB Snatch
+  - 10x Dual DB FR Squat
+  - 5x Dual DB Up Down
+  - 10x Dual DB Thruster
+  - 5x Dual DB Hang Clean and Press
+  - 10x DB Deadlift 
+
+## 2021-05-22
+
+- [ ] 3 Rounds:
+  - 15 KB Deadlifts
+  - 12 KB Clean
+  - 9 KB Front Squat
+  - 6 KB Snatch
+
+## 2021-05-21
+
+- [ ] EMOM for as long as possible:
+  - 1x DB snatch
+  - 1x D-ball toss (or DB thruster)
+
+## 2021-05-20
+
+- [ ] 6 Rounds:
+  - 12 Alt DB Snatches
+  - 12 Burpees
+  - 12 DB Thrusters
+
 ## 2021-05-19
 
-- [ ] <*workout*>
+- [ ] 5 rounds:
+  - 15x push-ups
+  - 20x squats
+  - 12x KB swings (70#)
+
+  * then 10 TGU (5x @53, 5x @70)
+
+https://vimeo.com/552716256
 
 ## 2021-05-18
 
-- [ ] <*workout*>
+- [x] 10 rounds:
+  - 5x DB snatch + front squat (@50#)
+  - 5x Single Arm DB bench press (@85#)
+
+https://vimeo.com/552208500
 
 ## 2021-05-17
 
-- [ ] 6 rounds:
-  - 12x DB Bench Press
+- [x] 6 rounds:
+  - 12x Goblet Squats
   - 14x TB Seated Curls
   - 20x Double-Unders
 
