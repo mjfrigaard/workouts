@@ -205,7 +205,7 @@ These are some demos of the typical exercises you'll find in the workouts:
   - 5x Dual DB Up Down
   - 10x Dual DB Thruster
   - 5x Dual DB Hang Clean and Press
-  - 10x DB Deadlift 
+  - 10x DB Deadlift
 
 ## 2021-05-22
 
@@ -230,7 +230,7 @@ These are some demos of the typical exercises you'll find in the workouts:
 
 ## 2021-05-19
 
-- [ ] 5 rounds:
+- [x] 5 rounds:
   - 15x push-ups
   - 20x squats
   - 12x KB swings (70#)
