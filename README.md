@@ -157,7 +157,7 @@ Daily Dose (Workout log)
 
 This is a daily Workout log.
 
-+ [GitHub repo](https://github.com/mjfrigaard/daily-dose)
++ [GitHub Repo](https://github.com/mjfrigaard/daily-dose)
 + Video demos [here](https://vimeo.com/user124837051)
 + The `README.md` file contains Workouts Back to `2020-06-27`
   + [`2021/`](https://github.com/mjfrigaard/Workouts/tree/main/2021)
@@ -359,7 +359,7 @@ https://vimeo.com/546756549
 ## 2021-05-06
 
 - [x] 8x Rounds Of:
-  - 40x Meter FArmer Walk (2x @53#)
+  - 40x Meter Farmer Walk (2x @53#)
   - 16x Seated Curl & Press
   - 25x Double-Unders
 
@@ -785,7 +785,7 @@ https://vimeo.com/528085831
 
 - [x] Every 90 Seconds x 10 cycles:
 
-  - 3x Single Arm Snatch (each side)
+  - 3x Single Arm Snatch (Each Side)
   - 6x Push-Ups
   - 9x Squats
 
@@ -814,7 +814,7 @@ https://vimeo.com/528085831
      Thruster +
      Hammer Curl +
      Press
-   } = 1 rep
+   } = 1 Rep
 
 https://vimeo.com/525875032
 
@@ -825,7 +825,7 @@ https://vimeo.com/525875032
   {
     + Single Arm DB Renegade Row (Row + Push-Up)
     + Single Arm Cluster
-   } = 1 rep
+   } = 1 Rep
 
 ## 2021-03-16
 
@@ -902,7 +902,7 @@ WArm up: https://vimeo.com/522217164
 - [x] 50 Reps Of:
  {- 2x DB Single Arm cleans
   - 2x DB Single Arm Push Press
-  - 2x DB Thrusters} = 1 rep
+  - 2x DB Thrusters} = 1 Rep
 
 https://vimeo.com/521211407
 
@@ -912,7 +912,7 @@ https://vimeo.com/521211407
   - 8x Hang Power Clean & Jerk
   - 8x Front Rack Lunge
   - 8x Ground-to-Overhead
-  - 40m FArmer Carry
+  - 40m Farmer Carry
 
 ## 2021-03-06
 
