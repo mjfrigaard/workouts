@@ -168,12 +168,12 @@ This is a daily Workout log.
     ├── 2020/
     │   ├── 2020-Barbell/
     │   ├── 2020-bw/
-    │   ├── 2020-dballs/
+    │   ├── 2020-dBalls/
     │   ├── 2020-dbs/
     │   ├── 2020-emoms/
     │   ├── 2020-kbs/
     │   ├── 2020-misc/
-    │   ├── 2020-slam-balls/
+    │   ├── 2020-slam-Balls/
     │   ├── 2020-Work-rest/
     │   └── README.md
     ├── 2021/
@@ -222,7 +222,7 @@ These are some demos Of the typical exercises you'll find in the Workouts:
 
 - [ ] EMOM for as long as possible:
   - 1x DB Thruster (@50#)
-  - 1x D-ball toss (@90#)
+  - 1x D-Ball toss (@90#)
 
 
 ## 2021-05-21
@@ -237,7 +237,7 @@ https://vimeo.com/553616323
 
 ## 2021-05-20
 
-<*basketball game*>
+<*basketBall game*>
 
 - [ ] 6 Rounds:
   - 12 Alt DB Snatches
@@ -275,7 +275,7 @@ https://vimeo.com/552208500
 - [x] 100 Reps Of:
   - DB Snatches (@50#)
 - [x] 50 Reps Of:
-  - D-ball Tosses (@90#)
+  - D-Ball Tosses (@90#)
 
 https://vimeo.com/550038038
 
@@ -311,7 +311,7 @@ https://vimeo.com/549138238
 - [x] 5x Rounds Of:
   - 10x DB Thrusters
   - 20x DB Offset Lunges (one up/one down)
-  - 30x Double Unders
+  - 30x Double-Unders
 
 https://vimeo.com/548668862
 
@@ -397,7 +397,7 @@ https://vimeo.com/544839037
 ## 2021-05-02
 
 - [x] 50x Reps Of:
-  - D-ball Tosses (@90#)
+  - D-Ball Tosses (@90#)
   - Ground-To-Overhead (@45#)
 
 ## 2021-05-01
@@ -525,12 +525,12 @@ https://vimeo.com/539910218
 - [x] 4 Rounds:
   - 20x KB Swings
   - 20x DB Snatches
-  - 10x D-ball Tosses
+  - 10x D-Ball Tosses
 
 ## 2021-04-19
 
 - [x] EMOM x24 Min
-  - 12x ball slams (@25#)
+  - 12x Ball slams (@25#)
   - 10x Ground-to-Overhead (@35#)
   - 30 Sec Scorpion Bag
 
@@ -548,7 +548,7 @@ https://vimeo.com/538995278
 
 - [x] EMOM x24 Min
   - 25x Double-Unders
-  - 5x D-ball Tosses (@90#)
+  - 5x D-Ball Tosses (@90#)
   - 10x KB Snatches (@70#)
 
 https://vimeo.com/538319482
@@ -589,8 +589,8 @@ https://vimeo.com/536595791
 ## 2021-04-12
 
 - [x] 50x Reps Of the following:
-  - DB bupee
-  - DB Power Clean + push Press
+  - DB Burpee
+  - DB Power Clean + Push Press
 
 https://vimeo.com/536127206
 
@@ -630,7 +630,7 @@ https://vimeo.com/536127206
 - [x] 8x Rounds:
   - 2x KB Combo (4x Total):
     - Single Arm Swing + Snatch + Cluster (@53#)
-  - 8x D-ball Tosses (@90#)
+  - 8x D-Ball Tosses (@90#)
 
 https://vimeo.com/534262444
 
@@ -639,7 +639,7 @@ https://vimeo.com/534262444
 - [x] EMOM x24 Min
   - 8x DB Deadlift
   - 8x DB Hang Clean & Jerk
-  - 25x Double Unders
+  - 25x Double-Unders
 
 *50# DB shown*
 
@@ -664,7 +664,7 @@ https://vimeo.com/533724803
 - [x] 50 Reps Of (@55#):
   - DB Snatch + Reverse Lunge
   - DB Snatch + Reverse Lunge + Press
-  - DB split Snatch (catch in Reverse Lunge)
+  - DB Split Snatch (Catch in Reverse Lunge)
 
 - [x] 25 Reps Of:
   - heavy DB Snatch (85#)
@@ -799,7 +799,7 @@ https://vimeo.com/528085831
 ## 2021-03-19
 
 - [x] 8x Rounds Of
-  - 4x 150# D-ball Tosses
+  - 4x 150# D-Ball Tosses
   - 10x Weighted Step-Ups
 
 ## 2021-03-18
@@ -841,7 +841,7 @@ https://vimeo.com/525875032
   - Push Press} = x 3 Reps
 
 For as many Rounds as possible\*:
-- 6x D-ball Tosses @150#
+- 6x D-Ball Tosses @150#
 
 \*complete all 6 under 30 Seconds.
 
@@ -872,7 +872,7 @@ https://vimeo.com/523494579
 ## 2021-03-11
 
 - [x] 5x Rounds Of:
-  - 6x D-ball Tosses
+  - 6x D-Ball Tosses
   - 10x Weighted Step-ups
   - 25x Double-Unders
   - 20x DB Floor Press
@@ -925,7 +925,7 @@ https://vimeo.com/520441026
 ## 2021-03-05
 
 - [x] 6 Rounds:
-  - 6x D-ball Tosses (@90#)
+  - 6x D-Ball Tosses (@90#)
   - 10x DB Curl & Press (@45#)
   - 10x DB Snatches (@55#)
   - 12x Weighted sit-ups (@25#)
