@@ -159,7 +159,7 @@ This is a daily Workout log.
 
 + [GitHub repo](https://github.com/mjfrigaard/daily-dose)
 + Video demos [here](https://vimeo.com/user124837051)
-+ The `README.md` file contains Workouts back to `2020-06-27`
++ The `README.md` file contains Workouts Back to `2020-06-27`
   + [`2021/`](https://github.com/mjfrigaard/Workouts/tree/main/2021)
   + [`2020/`](https://github.com/mjfrigaard/Workouts/tree/main/2020)
     + The `2020/` folder contains sub-folders for Workouts by type:
@@ -174,7 +174,7 @@ This is a daily Workout log.
     │   ├── 2020-kbs/
     │   ├── 2020-misc/
     │   ├── 2020-slam-balls/
-    │   ├── 2020-work-rest/
+    │   ├── 2020-Work-rest/
     │   └── README.md
     ├── 2021/
     ├── README.md
@@ -331,7 +331,7 @@ https://vimeo.com/548668862
   - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (R)
   - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (L)
 
-*supplemental ab work*
+*supplemental ab Work*
 
 https://vimeo.com/547776366
 
@@ -369,7 +369,7 @@ https://vimeo.com/546756549
   - 10x KB Swings
   - 6x DB Burpees
 
-*supplemental ab work*
+*supplemental ab Work*
 
 https://vimeo.com/545766080
 
@@ -437,14 +437,14 @@ https://vimeo.com/544839037
   - 20x Push-Ups
   - 20x Squats
 
-- [x] 1 round Of:
-  - 50x KB Deadlift (*5 sets Of 10*)
-  - 40x KB Clean (*5 sets Of 8*)
-  - 30x KB Push Press (*6 sets Of 5*)
-  - 20x KB Front Squat (*4 sets Of 5*)
+- [x] 1 Round Of:
+  - 50x KB Deadlift (*5 Sets Of 10*)
+  - 40x KB Clean (*5 Sets Of 8*)
+  - 30x KB Push Press (*6 Sets Of 5*)
+  - 20x KB Front Squat (*4 Sets Of 5*)
   - 10x KB Cluster (*however you can*)
 
-*supplemental ab work*
+*supplemental ab Work*
 
 https://vimeo.com/542951470
 
@@ -469,7 +469,7 @@ https://vimeo.com/542951470
   - 10x Single Arm DB Thruster (L @45#)
   - 15x KB Swings (@70#)
 
-(*supplemental ab work*)
+(*supplemental ab Work*)
 
 https://vimeo.com/541858778
 
@@ -481,7 +481,7 @@ https://vimeo.com/541858778
   - 15x Push-Ups
 
 *add 25# weight-vest*
-*4x sets Of 10 Reps supplemental ab work*
+*4x Sets Of 10 Reps supplemental ab Work*
 
 https://vimeo.com/541151192
 
@@ -497,7 +497,7 @@ https://vimeo.com/541151192
 - [x] 3-6-9-12-15 Reps Of:
   - DB Thrusters
   - Alternating DB Snatch
-*20m Carry after each round*
+*20m Carry after each Round*
 
 
 ## 2021-04-22
@@ -590,7 +590,7 @@ https://vimeo.com/536595791
 
 - [x] 50x Reps Of the following:
   - DB bupee
-  - DB power clean + push Press
+  - DB Power Clean + push Press
 
 https://vimeo.com/536127206
 
@@ -909,16 +909,16 @@ https://vimeo.com/521211407
 ## 2021-03-07
 
 - [x] 5x Rounds:
-  - 8x Hang power clean & jerk
-  - 8x Front rack Lunge
+  - 8x Hang Power Clean & Jerk
+  - 8x Front Rack Lunge
   - 8x Ground-to-Overhead
-  - 40m FArmer carry
+  - 40m FArmer Carry
 
 ## 2021-03-06
 
-- [x] 1 hour bag work
-  - Scorpion bag (3 Min round x10)
-  - Heavy bag (3 Min round x10)
+- [x] 1 Hour Bag Work
+  - Scorpion Bag (3 Min Round x10)
+  - Heavy Bag (3 Min Round x10)
 
 https://vimeo.com/520441026
 
@@ -926,7 +926,7 @@ https://vimeo.com/520441026
 
 - [x] 6 Rounds:
   - 6x D-ball Tosses (@90#)
-  - 10x DB curl & Press (@45#)
+  - 10x DB Curl & Press (@45#)
   - 10x DB Snatches (@55#)
   - 12x Weighted sit-ups (@25#)
 
@@ -936,16 +936,16 @@ https://vimeo.com/520205576
 
 **AM Workout:**
 *had access to gym, took advantage*
-  - 3 sets/5 Reps Barbell back Squat @135#
-  - 3 sets/5 Reps Barbell Front Squat @135#
+  - 3 Sets/5 Reps Barbell Back Squat @135#
+  - 3 Sets/5 Reps Barbell Front Squat @135#
   - 12 KB Swing @53#
-  - 2 sets/5 Reps Barbell back Squat @185#
-  - 2 sets/5 Reps Barbell Front Squat @185#
+  - 2 Sets/5 Reps Barbell Back Squat @185#
+  - 2 Sets/5 Reps Barbell Front Squat @185#
   - 12 KB Swing @53#
-  - 1 set/5 Reps Barbell back Squat @225#
-  - 1 set/5 Reps Barbell Front Squat @225#
+  - 1 Set/5 Reps Barbell Back Squat @225#
+  - 1 Set/5 Reps Barbell Front Squat @225#
   - 12 KB Swing @53#
-  - 3 sets/5 Reps Of Barbell power Snatch @135#
+  - 3 Sets/5 Reps Of Barbell Power Snatch @135#
   - 40 meter sled drag @ ~250#s (4 Reps)
 
 **PM Workout:**
@@ -967,7 +967,7 @@ https://vimeo.com/520205576
 - [x] For Time
   - 10x DB Squat + Tricep Extensions
   -  8x DB Double Front Rack Squat + Reverse Lunge
-  - 10x DB Arnold Press (curl + Press) from knees
+  - 10x DB Arnold Press (Curl + Press) From Knees
   - 8x DB Alternating Chinese Row
 
 https://vimeo.com/519059635
@@ -995,7 +995,7 @@ https://vimeo.com/517967326
 ## 2021-02-27
 
 - [x] 50 Reps Of:
-  - 4x Devil's clean
+  - 4x Devil's Clean
   - 3x Front Squats
   - 2x DB Hang-to-Overhead
 
@@ -1086,7 +1086,7 @@ https://vimeo.com/515074622
 ## 2021-02-17
 
 - [x] 8x Rounds
-  * 8x DB Deadlift + DB curl & Press (@45#)
+  * 8x DB Deadlift + DB Curl & Press (@45#)
   * 8x DB Goblet Squats (@85#)
 
 ## 2021-02-16
@@ -1345,7 +1345,7 @@ https://vimeo.com/502423925
   - 10x D-Ball up & Over (@90#)
   - 12x DB Hang Snatch (@55#)
   - 10x Ball Slams (@25#)
-  - 10x DB curl & Press (@45#)
+  - 10x DB Curl & Press (@45#)
 
 https://vimeo.com/501594975
 
@@ -1468,7 +1468,7 @@ https://vimeo.com/497104802
 
 ## 2021-01-02
 
-- [x] Every 90 Seconds x 15 sets
+- [x] Every 90 Seconds x 15 Sets
   - 6x D-Ball Tosses (@150# or @90#)
   - 20x Banded Squats
   - 20x Weighted Step-Ups
