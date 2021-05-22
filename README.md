@@ -192,10 +192,10 @@ These are some demos Of the typical exercises you'll find in the Workouts:
 + [**Single Arm DB Clusters**](https://vimeo.com/466994056)
 + [**DB Ground to Overhead**](https://vimeo.com/467000265/9a738e8398)
 + [**Dumbbell Combo (Single Arm Snatch + Front Squat + Hang Power Clean + Push Press)**](https://vimeo.com/466994424)
-+ [**DB Push Up + DB Power Clean + DB Full Clean + Press**](https://vimeo.com/466996496)
++ [**DB Push Up + DB Power Clean + DB Full Clean & Press**](https://vimeo.com/466996496)
 + [**DB Deadlift + Hang Full Clean**](https://vimeo.com/466994764)
 + [**Squat x 2 + Suitcase Lunge x 2 + Snatch x 2**](https://vimeo.com/466993599)
-+ [**DB Clean + Press + Hammer Curl**](https://vimeo.com/467000511)
++ [**DB Clean & Press + Hammer Curl**](https://vimeo.com/467000511)
 
 ***
 
@@ -975,7 +975,7 @@ https://vimeo.com/519059635
 ## 2021-03-01
 
 - [x] 20 Min EMOM
-  - 12x DB Hang Clean + Press
+  - 12x DB Hang Clean & Press
   - 10x DB Suitcase Walking Lunges
   - 12x Push-Ups
   - 10x Squats
@@ -1004,7 +1004,7 @@ https://vimeo.com/517654309
 
 ## 2021-02-26
 
-- [x] For Time (24 Min time-cap)
+- [x] For Time (24 Min Time-Cap)
 
 10-15-20-15-10 Reps Of:
   - DB Burpee
@@ -1030,7 +1030,7 @@ https://vimeo.com/516979300
   - 8x Box Jumps
 - [x] 15x Min EMOM
   - 10x Single Arm Overhead Reverse Lunge
-  - 10x Alternating Single Arm DB Hang Clean + Press
+  - 10x Alternating Single Arm DB Hang Clean & Press
   - 20x Double-Unders
 
 https://vimeo.com/516484078
@@ -1109,7 +1109,7 @@ https://vimeo.com/512740745
 
 - [x] 25-20-15-10-5
   - Squats
-  - DB Hang Power Clean + Press
+  - DB Hang Power Clean & Press
   - DB Deadlift
 
 ## 2021-02-13
@@ -1179,9 +1179,10 @@ https://vimeo.com/510016136
 
 ## 2021-02-06
 
-- [x] 10-9-8-7-6-5-4-3-2-1
+- [x] 10-9-8-7-6-5-4-3-2-1  
   * KB Snatch > Switch Hand Swing > Snatch
   * KB Clean > Single Arm Front Squat
+
 - [x] 8x Reps (4 Each leg)
 
 ## 2021-02-05
@@ -1256,7 +1257,7 @@ https://vimeo.com/506925521
 
 - [x] 50x Reps Of:
   - 150# D-Ball Tosses
-  - DB Hang Power Clean + Press (@45#)
+  - DB Hang Power Clean & Press (@45#)
 
 https://vimeo.com/505917813
 
