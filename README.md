@@ -227,7 +227,7 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-05-21
 
-- [x] 6 Rounds Of:  
+- [x] 6 Rounds Of:
   - 12x DB Deadlift (@50#)
   - 12x DB Push-Press (@50#)
   - 12x DB Goblet Squat (@50#)
@@ -301,8 +301,8 @@ https://vimeo.com/549524806
 
 - [x] 6 Rounds Of:
 - 20x Squats
-- 12x TB seated Curls
-- 12x DB bench
+- 12x TB Seated Curls
+- 12x DB Bench
 
 https://vimeo.com/549138238
 
@@ -310,7 +310,7 @@ https://vimeo.com/549138238
 
 - [x] 5x Rounds Of:
   - 10x DB Thrusters
-  - 20x DB Offset Lunges (one Up/one down)
+  - 20x DB Offset Lunges (One Up/One Down)
   - 30x Double-Unders
 
 https://vimeo.com/548668862
@@ -338,7 +338,7 @@ https://vimeo.com/547776366
 ## 2021-05-09
 
 - [x] EMOM x10 Minutes
-  - 20x KB switch-hand-Swings
+  - 20x KB Switch-Hand-Swings
   - 5x TB Snatch + Thruster
 
 https://vimeo.com/547223302
@@ -384,7 +384,7 @@ https://vimeo.com/545766080
 ## 2021-05-03
 
 WArm Up:
-- [x] perfect your jump shot
+- [x] perfect your jump shot!
 
 Workout:
 - [x] EMOM x 21 Min
@@ -1240,9 +1240,9 @@ https://vimeo.com/506925521
 
 - [x] 5x Rounds
   - 10x DB Snatch (R)
-  - 10x DB Front Squat (in right hand)
+  - 10x DB Front Squat (in right Hand)
   - 10x DB Snatch (L)
-  - 10x DB Front Squat (in left hand)
+  - 10x DB Front Squat (in left Hand)
 
 
 
