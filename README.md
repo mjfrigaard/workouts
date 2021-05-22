@@ -186,12 +186,12 @@ This is a daily Workout log.
 
 ## Sample Demo Videos
 
-These are some demos Of the typical exercises you'll find in the Workouts:
+These are some demos Of The typical exercises you'll find in The Workouts:
 
 + [**Single Arm Switch Hand Swing**](https://vimeo.com/466993111)
 + [**Single Arm DB Clusters**](https://vimeo.com/466994056)
 + [**DB Ground to Overhead**](https://vimeo.com/467000265/9a738e8398)
-+ [**Dumbbell Combo (Single Arm Snatch + Front Squat + Hang Power Clean + Push Press)**](https://vimeo.com/466994424)
++ [**Dumbbell Combo (Single Arm Snatch + Front Squat + Hang Power Clean + Push-Press)**](https://vimeo.com/466994424)
 + [**DB Push Up + DB Power Clean + DB Full Clean & Press**](https://vimeo.com/466996496)
 + [**DB Deadlift + Hang Full Clean**](https://vimeo.com/466994764)
 + [**Squat x 2 + Suitcase Lunge x 2 + Snatch x 2**](https://vimeo.com/466993599)
@@ -227,11 +227,11 @@ These are some demos Of the typical exercises you'll find in the Workouts:
 
 ## 2021-05-21
 
-- [x] 6 Rounds Of:
-- 12x DB Deadlift
-- 12x DB Push-Press
-- 12x DB Goblet Squat
-(@50#)
+- [x] 6 Rounds Of:  
+  - 12x DB Deadlift (@50#)
+  - 12x DB Push-Press (@50#)
+  - 12x DB Goblet Squat (@50#)
+
 
 https://vimeo.com/553616323
 
@@ -251,7 +251,7 @@ https://vimeo.com/553616323
   - 20x Squats
   - 12x KB Swings (70#)
 
-  * then 10 TGU (5x @53, 5x @70)
+  * Then 10 TGU (5x @53, 5x @70)
 
 https://vimeo.com/552716256
 
@@ -285,7 +285,7 @@ https://vimeo.com/550038038
 
 - [ ] 5-10-15-20-15-10-5 Reps Of:
   - KB Goblet Squats
-  - KB Push Press
+  - KB Push-Press
   - DB Row
   - KB Cleans
 
@@ -440,7 +440,7 @@ https://vimeo.com/544839037
 - [x] 1 Round Of:
   - 50x KB Deadlift (*5 Sets Of 10*)
   - 40x KB Clean (*5 Sets Of 8*)
-  - 30x KB Push Press (*6 Sets Of 5*)
+  - 30x KB Push-Press (*6 Sets Of 5*)
   - 20x KB Front Squat (*4 Sets Of 5*)
   - 10x KB Cluster (*however you can*)
 
@@ -588,9 +588,9 @@ https://vimeo.com/536595791
 
 ## 2021-04-12
 
-- [x] 50x Reps Of the following:
+- [x] 50x Reps Of The following:
   - DB Burpee
-  - DB Power Clean + Push Press
+  - DB Power Clean + Push-Press
 
 https://vimeo.com/536127206
 
@@ -695,7 +695,7 @@ https://vimeo.com/532562935
   - Single Arm DB Deadlift
   - Single Arm DB Snatch (From Floor)
   - Single Arm DB Thruster
-  - Single Arm DB Push Press
+  - Single Arm DB Push-Press
 
 *Cadrio*
 https://vimeo.com/532093693
@@ -705,7 +705,7 @@ https://vimeo.com/532093693
 - [x] 20x Rounds Of:
   - 5x DB Snatch
   - 4x DB Overhead Lunge
-  - 3x SA DB Push Press
+  - 3x SA DB Push-Press
   - 2x SA DB Front Squat
   - 1x SA DB Thruster
 
@@ -794,7 +794,7 @@ https://vimeo.com/528085831
 - [x] 10x Rounds Of:
   - 5x DB Hang Full Squat Clean
   - 5x DB Thrusters
-  - 5x DB Push Press
+  - 5x DB Push-Press
 
 ## 2021-03-19
 
@@ -838,7 +838,7 @@ https://vimeo.com/525875032
 - [x] Every 90 Seconds x 10 Cycles:
 { - Renegade Row
   - Devils Press
-  - Push Press} = x 3 Reps
+  - Push-Press} = x 3 Reps
 
 For as many Rounds as possible\*:
 - 6x D-Ball Tosses @150#
@@ -901,7 +901,7 @@ WArm Up: https://vimeo.com/522217164
 
 - [x] 50 Reps Of:
  {- 2x DB Single Arm cleans
-  - 2x DB Single Arm Push Press
+  - 2x DB Single Arm Push-Press
   - 2x DB Thrusters} = 1 Rep
 
 https://vimeo.com/521211407
@@ -953,7 +953,7 @@ https://vimeo.com/520205576
   - 15x Squats
   - 6x D-Ball Tosses
   - 15x Push-Ups
-  - 12x DB Push Press
+  - 12x DB Push-Press
 
 
 ## 2021-03-03
@@ -1093,7 +1093,7 @@ https://vimeo.com/515074622
 
 - [x] 8x Rounds
   - 6x Alternating DB Hang Cleans
-  - 12x DB Push Press
+  - 12x DB Push-Press
   - 15x Sit-Ups
 
 ## 2021-02-15
@@ -1198,7 +1198,7 @@ https://vimeo.com/510016136
 - [x] 5x Rounds
   * 9x Double KB Front Squat
   * 7x KB Swings
-  * 5x KB Push Press
+  * 5x KB Push-Press
 
 ## 2021-02-03
 
@@ -1225,7 +1225,7 @@ https://player.vimeo.com/video/507695569
   * 15x KB Swings
   * 15x Goblet Squats
   * 10x KB Snatches
-  * 10x KB Push Press
+  * 10x KB Push-Press
 
 ## 2021-01-31
 
@@ -1396,7 +1396,7 @@ https://vimeo.com/500186421
   - Odd Min (Scorpion Bag)
   - Even Min (Heavy Bag)
 
-(wear a 25# weight vest)
+(25# weight vest)
 
 https://vimeo.com/499360968
 
@@ -1477,7 +1477,7 @@ https://vimeo.com/497104802
 
 ## 2021-01-01
 
-- [x] Snatch-tastic! (100x Reps Of the Following)
+- [x] Snatch-tastic! (100x Reps Of The Following)
   * DB Snatch (@55 lbs)
   * KB Snatch (@53 lbs)
   * TB Snatch (@53 lbs)
