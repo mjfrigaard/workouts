@@ -331,7 +331,7 @@ https://vimeo.com/548668862
   - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (R)
   - 5x Single Arm DB Snatch + 5x Single Arm DB Overhead Lunge (L)
 
-*SUpplemental Ab Work*
+*Supplemental Ab Work*
 
 https://vimeo.com/547776366
 
@@ -369,7 +369,7 @@ https://vimeo.com/546756549
   - 10x KB Swings
   - 6x DB Burpees
 
-*SUpplemental Ab Work*
+*Supplemental Ab Work*
 
 https://vimeo.com/545766080
 
@@ -444,7 +444,7 @@ https://vimeo.com/544839037
   - 20x KB Front Squat (*4 Sets Of 5*)
   - 10x KB Cluster (*however you can*)
 
-*SUpplemental Ab Work*
+*Supplemental Ab Work*
 
 https://vimeo.com/542951470
 
@@ -469,7 +469,7 @@ https://vimeo.com/542951470
   - 10x Single Arm DB Thruster (L @45#)
   - 15x KB Swings (@70#)
 
-(*SUpplemental Ab Work*)
+(*Supplemental Ab Work*)
 
 https://vimeo.com/541858778
 
@@ -481,7 +481,7 @@ https://vimeo.com/541858778
   - 15x Push-Ups
 
 *Add 25# Weight-Vest*
-*4x Sets Of 10 Reps SUpplemental Ab Work*
+*4x Sets Of 10 Reps Supplemental Ab Work*
 
 https://vimeo.com/541151192
 
@@ -514,7 +514,7 @@ https://vimeo.com/540434396
 
 - [x] EMOM x 32 Min:
   - 12x KB Swings (@70#)
-  - 10x DB suitcase Lunge (@50#)
+  - 10x DB Suitcase Lunge (@50#)
   - 10x DB Deadlift (@50#)
   - 15x Push-Ups
 
@@ -697,7 +697,7 @@ https://vimeo.com/532562935
   - Single Arm DB Thruster
   - Single Arm DB Push-Press
 
-*Cadrio*
+*Cardio*
 https://vimeo.com/532093693
 
 ## 2021-03-31
