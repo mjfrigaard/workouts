@@ -7,6 +7,7 @@ Daily Dose (Workout log)
 
 * [2021 Workouts](#2021-Workouts)
 
+  * [2021-05-24](#2021-05-24)
   * [2021-05-23](#2021-05-23)
   * [2021-05-22](#2021-05-22)
   * [2021-05-21](#2021-05-21)
@@ -201,6 +202,19 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 # 2021 Workouts
 
+## 2021-05-24
+
+- [ ] 3 Rounds:
+  - 15 KB Deadlifts
+  - 12 KB Clean
+  - 9 KB Front Squat
+  - 6 KB Snatch
+
+
+- [ ] EMOM for as long as possible:
+  - 1x DB Thruster (@50#)
+  - 1x D-Ball toss (@90#)
+
 ## 2021-05-23
 
 - [ ] 5 Rounds:
@@ -213,16 +227,12 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-05-22
 
-- [ ] 3 Rounds:
-  - 15 KB Deadlifts
-  - 12 KB Clean
-  - 9 KB Front Squat
-  - 6 KB Snatch
+- [x] 6 Rounds Of:
+- 12x KB Swing
+- 12x DB Split Squat
+- 12x DB Bench Press
 
-
-- [ ] EMOM for as long as possible:
-  - 1x DB Thruster (@50#)
-  - 1x D-Ball toss (@90#)
+https://vimeo.com/553853570
 
 
 ## 2021-05-21
