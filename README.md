@@ -202,20 +202,56 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 # 2021 Workouts
 
-## 2021-05-24
+## 2021-06-04
 
-- [ ] 3 Rounds:
-  - 15 KB Deadlifts
-  - 12 KB Clean
-  - 9 KB Front Squat
-  - 6 KB Snatch
+- [ ] *workout*
 
+## 2021-06-03
+
+- [ ] *workout*
+
+## 2021-06-02
+
+- [ ] *workout*
+
+## 2021-06-01
+
+- [ ] *workout*
+
+## 2021-05-31
+
+- [ ] *workout*
+
+## 2021-05-30
+
+- [ ] *workout*
+
+## 2021-05-29
+
+- [ ] *workout*
+
+## 2021-05-28
+
+- [ ] *workout*
+
+## 2021-05-27
+
+- [ ] *workout*
+
+## 2021-05-26
+
+- [ ] 4 Rounds:
+  - 12x DB Power Cleans
+  - 30x Sit-Ups
+  - 12x DB Thrusters
+
+## 2021-05-25
 
 - [ ] EMOM for as long as possible:
   - 1x DB Thruster (@50#)
   - 1x D-Ball toss (@90#)
 
-## 2021-05-23
+## 2021-05-24
 
 - [ ] 5 Rounds:
   - 5x Dual DB Snatch
@@ -225,12 +261,20 @@ These are some demos Of The typical exercises you'll find in The Workouts:
   - 5x Dual DB Hang Clean & Press
   - 10x DB Deadlift
 
+## 2021-05-23
+
+- [x] 3 Rounds:
+  - 15 KB Deadlifts
+  - 12 KB Clean
+  - 9 DB Front Squat
+  - 6 DB Snatch
+
 ## 2021-05-22
 
 - [x] 6 Rounds Of:
-- 12x KB Swing
-- 12x DB Split Squat
-- 12x DB Bench Press
+  - 12x KB Swing
+  - 12x DB Split Squat
+  - 12x DB Bench Press
 
 https://vimeo.com/553853570
 
