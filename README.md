@@ -253,13 +253,15 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-05-24
 
-- [ ] 5 Rounds:
-  - 5x Dual DB Snatch
-  - 10x Dual DB FR Squat
-  - 5x Dual G-2-OH
-  - 10x Dual DB Thruster
-  - 5x Dual DB Hang Clean & Press
-  - 10x DB Deadlift
+  - [x] 5 Rounds:
+    - 5x Dual DB Hang Snatch
+    - 10x Dual DB FR Squat
+    - 5x Dual G-2-OH
+    - 10x Dual DB Thruster
+    - 5x Dual DB Hang Clean & Press
+    - 10x DB Deadlift
+
+https://vimeo.com/554551895
 
 ## 2021-05-23
 
