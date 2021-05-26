@@ -247,9 +247,12 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-05-25
 
-- [ ] EMOM for as long as possible:
-  - 1x DB Thruster (@50#)
-  - 1x D-Ball toss (@90#)
+- [x] EMOM for 20 Min:
+  - 10x Ball Slams (@25#)
+  - 10x Burpees
+
+
+https://vimeo.com/555046794
 
 ## 2021-05-24
 
