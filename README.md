@@ -227,7 +227,7 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-06-01
 
-- [ ] 20-20-15-15-10-10-5-5 Reps Of:
+- [x] 20-20-15-15-10-10-5-5 Reps Of:
 	* KB Swings
 	* SA Thruster
 	* DB Bench
@@ -235,7 +235,7 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-05-31
 
-- [ ] 15-12-9-6-9-12-15 Reps Of:
+- [x] 15-12-9-6-9-12-15 Reps Of:
 	* DB Burpees
 	* KB Front-Rack Lunges
 	* Overhead Sit-Ups
@@ -243,28 +243,28 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-05-30
 
-- [ ] 10 Rounds of:
+- [x] 10 Rounds of:
 	* 10x DB Curl and Press
 	* 10x DB Goblet Squats
 	* 10x DB Bench Press
 
 ## 2021-05-29
 
-- [ ] 7 Rounds of:
+- [x] 7 Rounds of:
 	* 7x Hang Power Cleans
 	* 7x Thrusters
 	* 7x Deadlifts
 
 ## 2021-05-28
 
-- [ ] EMOM x20 Min:
+- [x] EMOM x20 Min:
 	* 5 Push-Ups
 	* 10 Toe-Touches
 	* 15 Squats
 
 ## 2021-05-27
 
-- [ ] 20-15-10-5 reps of:
+- [x] 20-15-10-5 reps of:
 	* Burpees
 	* Squats
 	* Push-ups
@@ -272,7 +272,7 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 *rest 2 min*
 
-- [ ] 5-10-15-20 reps of:
+- [x] 5-10-15-20 reps of:
 	* Burpees
 	* Squats
 	* Push-ups
@@ -280,7 +280,7 @@ These are some demos Of The typical exercises you'll find in The Workouts:
 
 ## 2021-05-26
 
-- [ ] 4 Rounds:
+- [x] 4 Rounds:
   - 12x DB Power Cleans
   - 30x Sit-Ups
   - 12x DB Thrusters
