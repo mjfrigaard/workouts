@@ -170,24 +170,24 @@ Daily Dose (Workout log)
 This is a daily Workout log.
 
 + [GitHub Repo](https://github.com/mjfrigaard/daily-dose)
-+ Video demos [here](https://vimeo.com/user124837051)
-+ The `README.md` file contains Workouts Back to `2020-06-27`
++ Videos [here](https://vimeo.com/user124837051)
++ Folder archive:
   + [`2021/`](https://github.com/mjfrigaard/Workouts/tree/main/2021)
   + [`2020/`](https://github.com/mjfrigaard/Workouts/tree/main/2020)
-    + The `2020/` folder contains sub-folders for Workouts by type:
+    + The `2020/` = Workouts By Type:
 
     ```
     ├── 2020/
-    │   ├── 2020-Barbell/
+    │   ├── 2020-barbell/
     │   ├── 2020-bw/
-    │   ├── 2020-dBalls/
+    │   ├── 2020-dballs/
     │   ├── 2020-dbs/
     │   ├── 2020-emoms/
     │   ├── 2020-kbs/
     │   ├── 2020-misc/
-    │   ├── 2020-slam-Balls/
-    │   ├── 2020-Work-rest/
-    │   └── README.md
+    │   ├── 2020-slam-balls/
+    │   ├── 2020-work-rest/
+    │   └── readme.md
     ├── 2021/
     ├── README.md
     ├── _config.yml
@@ -197,8 +197,6 @@ This is a daily Workout log.
 ***
 
 ## Sample Demo Videos
-
-These are some demos Of The typical exercises you'll find in The Workouts:
 
 + [**Single Arm Switch Hand Swing**](https://vimeo.com/466993111)
 + [**Single Arm DB Clusters**](https://vimeo.com/466994056)
