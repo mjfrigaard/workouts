@@ -167,8 +167,6 @@ Daily Dose (Workout log)
 
 # Workouts
 
-This is a daily Workout log.
-
 + [GitHub Repo](https://github.com/mjfrigaard/daily-dose)
 + Videos [here](https://vimeo.com/user124837051)
 + Folder archive:
