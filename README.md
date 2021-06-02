@@ -228,6 +228,7 @@ Daily Dose (Workout log)
 	* SA Thruster
 	* DB Bench
 
+https://vimeo.com/557857997
 
 ## 2021-05-31
 
