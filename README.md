@@ -219,7 +219,13 @@ Daily Dose (Workout log)
 
 ## 2021-06-02
 
-- [ ] *workout*
+
+- [x] Every 90 Seconds x 15:
+  - 5x DB Deadlift
+  - 5x DB Clean + Press
+  - 5x DB Push Press
+
+https://vimeo.com/558357094
 
 ## 2021-06-01
 
