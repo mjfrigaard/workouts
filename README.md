@@ -209,13 +209,64 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
-## 2021-06-04
+## 2021-06-12
 
 - [ ] *workout*
+
+## 2021-06-11
+
+- [ ] *workout*
+
+## 2021-06-10
+
+- [ ] *workout*
+
+## 2021-06-09
+
+- [ ] *workout*
+
+## 2021-06-08
+
+- [ ] *workout*
+
+## 2021-06-07
+
+- [ ] 3x Rounds Of:
+  - 30x Squats
+  - 20x DB Hang Clean & Press
+  - 10x DB Single Arm Devils' Press  
+
+## 2021-06-06
+
+- [x] 7x Rounds Of:
+  - 7x Deck Squats
+  - 7x Push-Ups
+  - 7x KB Swings
+  - 7x Toe-Touches
+
+## 2021-06-05
+
+- [x] EMOM x18 min:
+  - 20x Double-Unders
+  - 8x D-Ball
+
+https://vimeo.com/559493664
+
+## 2021-06-04
+
+- [x] 10x Rounds Of:
+  - 8x DB Hang Snatches
+  - 8x Push-Ups
+  - 8x DB Goblet Squats
+  - 8x Sit-Ups
+
+https://vimeo.com/559233503
 
 ## 2021-06-03
 
-- [ ] *workout*
+- [x] 8x Rounds Of:
+  - 15x Thrusters
+  - 30x Double-Unders
 
 ## 2021-06-02
 
