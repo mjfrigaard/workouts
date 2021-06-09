@@ -211,30 +211,54 @@ Daily Dose (Workout log)
 
 ## 2021-06-12
 
-- [ ] *workout*
+- [ ] 8x Rounds:
+  - 12x Single Arm KB Snatches
+  - 10x KB Plank Pull-throughs
+  - 8x KB Clusters
+  - 4x KB TGU (2x Each Side)
 
 ## 2021-06-11
 
-- [ ] *workout*
+- [ ] 10x Rounds
+  - 10x Curl & Press
+  - 10x KB Deadlifts
+  - 10x DB Bench Press
+  - 10x DB Weighted Step-Ups
 
 ## 2021-06-10
 
-- [ ] *workout*
+- [ ] 5x Rounds:
+  - 5x Devils Press
+  - 10x Single Arm DB Snatches
+  - 10x Burpee Over DBs
+
 
 ## 2021-06-09
 
-- [ ] *workout*
+- [ ] E2MOM x 9x Rounds:
+  - 6x DB Push-Press + 6x DB Front Squats
+  - 12x DB Single Arm Snatches + 6x DB Single Arm Overhead Lunge
+  - 6x DB Deadlifts + 6x DB Hammer Curls
 
 ## 2021-06-08
 
-- [ ] *workout*
+- [x] 6x Rounds Of:
+  - 10x KB snatches (L)
+  - 10x KB snatches (R)
+  - 12x Ball Slams (25#)
+
+*warm up on bag (until it breaks)*
+
+https://vimeo.com/560697375
 
 ## 2021-06-07
 
-- [ ] 3x Rounds Of:
+- [x] 3x Rounds Of:
   - 30x Squats
   - 20x DB Hang Clean & Press
-  - 10x DB Single Arm Devils' Press  
+  - 10x DB Single Arm Devils' Press
+
+https://vimeo.com/560210322
 
 ## 2021-06-06
 
