@@ -223,7 +223,7 @@ Daily Dose (Workout log)
 
 ## 2021-06-18
 
-- [ ] 5x Rounds;  
+- [ ] 5x Rounds;
   - 12x Single Arm Bulgarian Split Squat + Single Arm Push-Press
   - 12x DB Deadlift + DB Rows
   - 12x Single Arm DB Hang Snatch + Single Arm Overhead Lunge
@@ -257,12 +257,14 @@ Daily Dose (Workout log)
 
 ## 2021-06-13
 
-- [ ] 3 Rounds:
+- [x] 3 Rounds:
   - 10x DB Deadlifts
   - 40m DB Farmer Carry
   - 5x Strict Pull Ups
   - 10x TB/KB Push-Press
   - 40m KB Front Rack Carry
+
+https://vimeo.com/562553776
 
 ## 2021-06-12
 
