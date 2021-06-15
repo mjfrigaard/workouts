@@ -3,6 +3,12 @@ Daily Dose (Workout log)
 
 * [Sample Demo Videos](#sample-demo-videos)
 
+  * [2021-06-18](#2021-06-18)
+  * [2021-06-17](#2021-06-17)
+  * [2021-06-16](#2021-06-16)
+  * [2021-06-15](#2021-06-15)
+  * [2021-06-14](#2021-06-14)
+  * [2021-06-13](#2021-06-13)
   * [2021-06-12](#2021-06-12)
   * [2021-06-11](#2021-06-11)
   * [2021-06-10](#2021-06-10)
@@ -217,7 +223,7 @@ Daily Dose (Workout log)
 
 ## 2021-06-18
 
-  - 12x Single Arm Bulgarian Split Squat + Single Arm Push-Press  
+  - 12x Single Arm Bulgarian Split Squat + Single Arm Push-Press
   - 12x DB Deadlift + DB Rows
   - 12x Single Arm DB Hang Snatch + Single Arm Overhead Lunge
 
