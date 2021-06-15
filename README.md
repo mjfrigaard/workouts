@@ -213,13 +213,59 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-06-19
+
+## 2021-06-18
+
+  - 12x Single Arm Bulgarian Split Squat + Single Arm Push-Press  
+  - 12x DB Deadlift + DB Rows
+  - 12x Single Arm DB Hang Snatch + Single Arm Overhead Lunge
+
+## 2021-06-17
+
+- [x] Every 90 seconds x12 Rounds:
+  - 2x Squat Cleans
+  - 2x Push-Press
+  - 2x Thrusters
+
+## 2021-06-16
+
+- [ ] EMOM x20 Minutes:
+  - 2x DB Rows + 3x Devils Press + 4x Front Squat
+
+## 2021-06-15
+
+- [ ] 12x Rounds:
+  - 6x Single Arm DB Bent Over Row
+  - 6x Single Arm DB DB Clean
+  - 6x Single Arm DB Push-Press
+
+## 2021-06-14
+
+- [x] 5 Rounds:
+  - 20x Push-Ups
+  - 20x Sit-Ups
+  - 20x Squats
+  - 20x Double-Unders
+
+## 2021-06-13
+
+- [ ] 3 Rounds:
+  - 10x DB Deadlifts
+  - 40m DB Farmer Carry
+  - 5x Strict Pull Ups
+  - 10x TB/KB Push-Press
+  - 40m KB Front Rack Carry
+
 ## 2021-06-12
 
-- [ ] 8x Rounds:
+- [x] 8x Rounds:
   - 12x Single Arm KB Snatches
-  - 10x KB Plank Pull-throughs
+  - 10x DB Plank Pull-throughs
   - 8x KB Clusters
-  - 4x KB TGU (2x Each Side)
+  - 2x KB TGU
+
+https://vimeo.com/562322202
 
 ## 2021-06-11
 
