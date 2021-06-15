@@ -223,13 +223,14 @@ Daily Dose (Workout log)
 
 ## 2021-06-18
 
+- [ ] 5x Rounds;  
   - 12x Single Arm Bulgarian Split Squat + Single Arm Push-Press
   - 12x DB Deadlift + DB Rows
   - 12x Single Arm DB Hang Snatch + Single Arm Overhead Lunge
 
 ## 2021-06-17
 
-- [x] Every 90 seconds x12 Rounds:
+- [ ] Every 90 seconds x12 Rounds:
   - 2x Squat Cleans
   - 2x Push-Press
   - 2x Thrusters
