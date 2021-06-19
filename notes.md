@@ -1,3 +1,6 @@
+NOTES
+======
+
 
 ## training principles
 
