@@ -3,6 +3,9 @@ Daily Dose (Workout log)
 
 * [Sample Demo Videos](#sample-demo-videos)
 
+  * [2021-06-21](#2021-06-21)
+  * [2021-06-20](#2021-06-20)
+  * [2021-06-19](#2021-06-19)
   * [2021-06-18](#2021-06-18)
   * [2021-06-17](#2021-06-17)
   * [2021-06-16](#2021-06-16)
@@ -219,7 +222,16 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-06-20
+
+- [ ] *workouts*
+
 ## 2021-06-19
+
+- [ ] 12x Rounds:
+ - 10x Push-Ups
+ - 10x Squats
+ - 10x Ball Tosses
 
 ## 2021-06-18
 
