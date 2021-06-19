@@ -222,6 +222,10 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-06-21
+
+- [ ] *workouts*
+
 ## 2021-06-20
 
 - [ ] *workouts*
