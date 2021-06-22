@@ -222,20 +222,28 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-06-22
+
+- [x] 100x Burpees
+  - *wear a weightvest*
+
 ## 2021-06-21
 
-- [ ] *workouts*
+- [x] 8x Rounds Of:
+  - 8x Devils Press
+  - 12x DB Bench Press
 
 ## 2021-06-20
 
-- [ ] *workouts*
+  - [x] *rest day*
 
 ## 2021-06-19
 
-- [ ] 12x Rounds:
- - 10x Push-Ups
- - 10x Squats
- - 10x Ball Tosses
+- [x] 10x Rounds:
+  - 12x Push-Ups
+  - 15x Squats
+  - 20x Double-Unders
+  - 10x D-Ball Tosses
 
 ## 2021-06-18
 
