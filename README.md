@@ -233,9 +233,14 @@ Daily Dose (Workout log)
   - 8x Devils Press
   - 12x DB Bench Press
 
+https://vimeo.com/565881007
+
 ## 2021-06-20
 
-  - [x] *rest day*
+- [x] 5x Rounds;
+  - 12x Single Arm Bulgarian Split Squat + Single Arm Push-Press
+  - 12x DB Deadlift + DB Rows
+  - 12x Single Arm DB Hang Snatch + Single Arm Overhead Lunge
 
 ## 2021-06-19
 
@@ -245,31 +250,39 @@ Daily Dose (Workout log)
   - 20x Double-Unders
   - 10x D-Ball Tosses
 
+https://vimeo.com/565119603
+
 ## 2021-06-18
 
-- [ ] 5x Rounds;
-  - 12x Single Arm Bulgarian Split Squat + Single Arm Push-Press
-  - 12x DB Deadlift + DB Rows
-  - 12x Single Arm DB Hang Snatch + Single Arm Overhead Lunge
+  - [x] EMOM x15 Rounds:
+    - 2x Squat Cleans
+    - 2x Push-Press
+    - 2x Thrusters
+
+https://vimeo.com/manage/videos/564840937
 
 ## 2021-06-17
 
-- [ ] Every 90 seconds x12 Rounds:
-  - 2x Squat Cleans
-  - 2x Push-Press
-  - 2x Thrusters
+- [x] 8 Rounds Of:
+  - 10x Goblet Squats
+  - 10x TB Bench Press
+  - 8x DB Rows
+
+https://vimeo.com/564466453
 
 ## 2021-06-16
 
-- [ ] EMOM x20 Minutes:
+- [x] EMOM x20 Minutes:
   - 2x DB Rows + 3x Devils Press + 4x Front Squat
 
 ## 2021-06-15
 
-- [ ] 12x Rounds:
-  - 6x Single Arm DB Bent Over Row
-  - 6x Single Arm DB DB Clean
-  - 6x Single Arm DB Push-Press
+- [x] 12x Rounds Of:
+  - 6x DB Single Arm Deadlift
+  - 6x DB Hang Clean
+  - 6x DB Push-Press
+
+https://vimeo.com/563484181
 
 ## 2021-06-14
 
