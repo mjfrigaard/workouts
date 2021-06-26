@@ -229,9 +229,11 @@ Daily Dose (Workout log)
 
 ## 2021-06-25
 
-- [ ] 1x Round:
+- [x] 1x Round:
   - 15-14-13-12-11-10x DB Clusters
   - 20-22-24-26-28-30x Double-Unders
+
+https://vimeo.com/567732144
 
 ## 2021-06-24
 
