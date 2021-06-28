@@ -227,6 +227,22 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-06-27
+
+- [x] EMOM x18 Minutes:
+  - 12x KB Snatch (@53#)
+  - 15x Push-Ups
+  - 8x D-Ball Toss (@90#)
+
+https://vimeo.com/568275692
+
+## 2021-06-26
+
+- [x] 5x Rounds:
+  - 20x Squats
+  - 20x Sit-Ups
+  - 20x Double-Unders
+
 ## 2021-06-25
 
 - [x] 1x Round:
