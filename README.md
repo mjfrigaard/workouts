@@ -5,6 +5,16 @@ Daily Dose (Workout log)
 
 * [Sample Demo Videos](#sample-demo-videos)
 
+   * [2021-07-05](#2021-07-05)
+   * [2021-07-04](#2021-07-04)
+   * [2021-07-03](#2021-07-03)
+   * [2021-07-02](#2021-07-02)
+   * [2021-07-01](#2021-07-01)
+   * [2021-06-30](#2021-06-30)
+   * [2021-06-29](#2021-06-29)
+   * [2021-06-28](#2021-06-28)
+   * [2021-06-27](#2021-06-27)
+   * [2021-06-26](#2021-06-26)
    * [2021-06-25](#2021-06-25)
    * [2021-06-24](#2021-06-24)
    * [2021-06-23](#2021-06-23)
@@ -225,7 +235,74 @@ Daily Dose (Workout log)
 
 ***
 
+<!--
+## YYYY-MM-DD
+
+- [ ] *workout*
+ - *item*
+ - *item*
+ - *item*
+-->
+
 # 2021 Workouts
+
+## 2021-07-05
+
+- [ ] 10x Rounds
+ - 10x DB Burpees
+ - 10x D-ball Tosses
+
+## 2021-07-04
+
+- [ ] EMOM x20 Minutes:
+ - 10x Single Arm Clusters
+ - 30x Double-Unders
+ - 10x Burpees
+ - 30x Double-Unders
+
+## 2021-07-03
+
+- [ ] 5x Rounds:
+ - 8x DB Bench Press
+ - 8x DB Clean
+ - 8x DB Snatch + Reverse Lunge
+
+## 2021-07-02
+
+- [ ] EMOM x25 Minutes:
+ - 12x Push-Ups
+ - 20x Squats
+ - 12x Snatches
+ - 12x Suitcase Lunges
+ - 8x Single Arm Clusters
+
+## 2021-07-01
+
+- [ ] 10x Rounds:
+ - 8x DB Single Arm Clusters
+ - 8x DB Deadlifts
+ - 8x DB Push-Press
+
+## 2021-06-30
+
+- [ ] EMOM x20 Minutes:
+ - 6x KB/DB Snatch + Thruster
+ - 8x Overhead Sit-Ups
+
+## 2021-06-29
+
+- [ ] 5x Rounds:
+ - 10x TB/DB Hammer Curls
+ - 10x TB/DB Strict Press
+ - 10x TB/DB Goblet Squat
+ - 10x TB/DB Bench Press
+
+## 2021-06-28
+
+- [x] 100x Reps Of:
+  - DB Thrusters (2x40lbs)
+
+https://vimeo.com/568722697
 
 ## 2021-06-27
 
