@@ -285,17 +285,21 @@ Daily Dose (Workout log)
 
 ## 2021-06-30
 
-- [ ] EMOM x20 Minutes:
+- [x] EMOM x20 Minutes:
   - 6x KB/DB Snatch + Thruster
   - 8x Overhead Sit-Ups
 
 ## 2021-06-29
 
-- [ ] 5x Rounds:
+- [x] 5x Rounds:
   - 10x TB/DB Hammer Curls
   - 10x TB/DB Strict Press
   - 10x TB/DB Goblet Squat
   - 10x TB/DB Bench Press
+
+*then 100x DB Clean + Press @50lbs*
+
+https://vimeo.com/569672442
 
 ## 2021-06-28
 
