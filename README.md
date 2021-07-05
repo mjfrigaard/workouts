@@ -248,13 +248,16 @@ Daily Dose (Workout log)
 
 ## 2021-07-05
 
-- [ ] 10x Rounds
-  - 10x DB Burpees
-  - 10x D-ball Tosses
+- [x] 8x Rounds
+  - 10x Curls (each arm)
+  - 10x Tricep Extensions (each arm)
+  - 10x DB Rows (each arm)
+  - 10x Goblet Squat
+  - 10x DB Bench
 
 ## 2021-07-04
 
-- [ ] EMOM x20 Minutes:
+- [x] EMOM x20 Minutes:
   - 10x Single Arm Clusters
   - 30x Double-Unders
   - 10x Burpees
@@ -262,14 +265,14 @@ Daily Dose (Workout log)
 
 ## 2021-07-03
 
-- [ ] 5x Rounds:
+- [x] 5x Rounds:
   - 8x DB Bench Press
   - 8x DB Clean
   - 8x DB Snatch + Reverse Lunge
 
 ## 2021-07-02
 
-- [ ] EMOM x25 Minutes:
+- [x] EMOM x25 Minutes:
   - 12x Push-Ups
   - 20x Squats
   - 12x Snatches
@@ -278,7 +281,7 @@ Daily Dose (Workout log)
 
 ## 2021-07-01
 
-- [ ] 10x Rounds:
+- [x] 10x Rounds:
   - 8x DB Single Arm Clusters
   - 8x DB Deadlifts
   - 8x DB Push-Press
