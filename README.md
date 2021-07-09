@@ -5,6 +5,14 @@ Daily Dose (Workout log)
 
 * [Sample Demo Videos](#sample-demo-videos)
 
+   * [2021-07-13](#2021-07-13)
+   * [2021-07-12](#2021-07-12)
+   * [2021-07-11](#2021-07-11)
+   * [2021-07-10](#2021-07-10)
+   * [2021-07-09](#2021-07-09)
+   * [2021-07-08](#2021-07-08)
+   * [2021-07-07](#2021-07-07)
+   * [2021-07-06](#2021-07-06)
    * [2021-07-05](#2021-07-05)
    * [2021-07-04](#2021-07-04)
    * [2021-07-03](#2021-07-03)
@@ -239,12 +247,72 @@ Daily Dose (Workout log)
 ## YYYY-MM-DD
 
 - [ ] *workout*
- - *item*
- - *item*
- - *item*
+  - *item*
+  - *item*
+  - *item*
 -->
 
 # 2021 Workouts
+
+## 2021-07-13
+
+- [ ] 5x Rounds:
+  - 15x KB Swings
+  - 15x Goblet Squats
+  - 15x Push-Ups
+
+## 2021-07-12
+
+- [ ] 50x Reps Of:
+  - 2x DB Ground-to-Overhead
+  - 2x DB Suitcase Lunges
+  - 2x DB Squats
+
+## 2021-07-11
+
+- [ ] EMOM x 21 Minutes
+  - 12x DB Single Arm Snatches
+  - 6x DB Thrusters
+  - 10x Burpees
+
+## 2021-07-10
+
+- [ ] 3x Rounds Of:
+  - 50x Squats
+  - 6x D-Ball Tosses
+  - 10x DB Power Clean + Jerk
+
+## 2021-07-09
+
+- [ ] 12x Rounds Of:
+  - 5x Pull-Ups
+  - 7x Devil's Press
+  - 9x Suitcase Lunges
+  - 20x Double-Unders
+
+## 2021-07-08
+
+- [x] 30-20-10 Reps Of:
+  - DB Deadlifts
+  - Push-Ups
+  - DB Front Squats
+
+## 2021-07-07
+
+- [x] 8x Rounds Of:
+  - 14x KB Swing (70lbs)
+  - 16x DB Curls (40lbs)
+  - 18x DB Bench (45lbs)
+
+https://vimeo.com/572410297
+
+## 2021-07-06
+
+- [x] EMOM x20 Minutes:
+  - 12x Squats
+  - 15x DB Single Arm Snatches (50lbs)
+
+https://vimeo.com/571921456
 
 ## 2021-07-05
 
