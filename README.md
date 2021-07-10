@@ -263,10 +263,11 @@ Daily Dose (Workout log)
 
 ## 2021-07-12
 
-- [ ] 50x Reps Of:
-  - 2x DB Ground-to-Overhead
-  - 2x DB Suitcase Lunges
-  - 2x DB Squats
+- [ ] 12x Rounds Of:
+  - 5x Pull-Ups
+  - 7x Devil's Press
+  - 9x Suitcase Lunges
+  - 20x Double-Unders
 
 ## 2021-07-11
 
@@ -284,11 +285,12 @@ Daily Dose (Workout log)
 
 ## 2021-07-09
 
-- [ ] 12x Rounds Of:
-  - 5x Pull-Ups
-  - 7x Devil's Press
-  - 9x Suitcase Lunges
-  - 20x Double-Unders
+- [x] 50x Reps Of:
+  - 2x DB Ground-to-Overhead
+  - 2x DB Front Squats
+  - 2x DB Suitcase Lunges
+
+https://vimeo.com/573250866
 
 ## 2021-07-08
 
