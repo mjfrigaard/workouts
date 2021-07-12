@@ -256,29 +256,31 @@ Daily Dose (Workout log)
 
 ## 2021-07-13
 
-- [ ] 5x Rounds:
-  - 15x KB Swings
-  - 15x Goblet Squats
-  - 15x Push-Ups
-
-## 2021-07-12
-
 - [ ] 12x Rounds Of:
   - 5x Pull-Ups
   - 7x Devil's Press
   - 9x Suitcase Lunges
   - 20x Double-Unders
 
+## 2021-07-12
+
+- [ ] 5x Rounds:
+  - 15x KB Swings
+  - 15x Goblet Squats
+  - 15x Push-Ups
+
 ## 2021-07-11
 
-- [ ] EMOM x 21 Minutes
+- [x] EMOM x 21 Minutes
+  - 10x Burpees
   - 12x DB Single Arm Snatches
   - 6x DB Thrusters
-  - 10x Burpees
+
+https://vimeo.com/573775920
 
 ## 2021-07-10
 
-- [ ] 3x Rounds Of:
+- [x] 3x Rounds Of:
   - 50x Squats
   - 6x D-Ball Tosses
   - 10x DB Power Clean + Jerk
