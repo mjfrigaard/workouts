@@ -286,6 +286,8 @@ Daily Dose (Workout log)
   - 50x Double-Unders
   - 6x D-Ball Tosses (3x 60lbs, 3x 90lbs)
 
+https://vimeo.com/574952418
+
 ## 2021-07-13
 
 - [x] 12x Rounds Of:
