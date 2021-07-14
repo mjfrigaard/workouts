@@ -260,10 +260,10 @@ Daily Dose (Workout log)
 
 ## 2021-07-17
 
-- [ ] 10x Rounds
-  - 5x D-Ball Tosses
-  - 15x Push-Ups
-  - 10x Ball Slams
+- [ ] EMOM x21 Minutes:
+  - 25x Double-Unders
+  - 10x Double DB Snatches
+  - 100m Farmer Carry
 
 ## 2021-07-16
 
@@ -281,10 +281,10 @@ Daily Dose (Workout log)
 
 ## 2021-07-14
 
-- [ ] EMOM x21 Minutes:
-  - 25x Double-Unders
-  - 10x Double DB Snatches
-  - 100m Farmer Carry
+- [x] 8 Rounds Of:
+  - 10x Ball Slams
+  - 50x Double-Unders
+  - 6x D-Ball Tosses (3x 60lbs, 3x 90lbs)
 
 ## 2021-07-13
 
