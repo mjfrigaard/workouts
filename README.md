@@ -254,9 +254,16 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-07-14
+
+- [ ] 5x Rounds:
+  - 10x KB Swings
+  - 15x Goblet Squats
+  - 15x Push-Ups
+
 ## 2021-07-13
 
-- [ ] 12x Rounds Of:
+- [x] 12x Rounds Of:
   - 5x Pull-Ups
   - 7x Devil's Press
   - 9x Suitcase Lunges
@@ -264,10 +271,13 @@ Daily Dose (Workout log)
 
 ## 2021-07-12
 
-- [ ] 5x Rounds:
-  - 15x KB Swings
-  - 15x Goblet Squats
-  - 15x Push-Ups
+- [x] 8x Rounds:
+  - 16x DB Curl + Press (8x Each Side)
+  - 12x DB Bench
+  - 12x DB Tricep Extension
+  - 12x Goblet Squat
+
+https://vimeo.com/574244362
 
 ## 2021-07-11
 
