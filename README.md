@@ -5,6 +5,10 @@ Daily Dose (Workout log)
 
 * [Sample Demo Videos](#sample-demo-videos)
 
+   * [2021-07-17](#2021-07-17)
+   * [2021-07-16](#2021-07-16)
+   * [2021-07-15](#2021-07-15)
+   * [2021-07-14](#2021-07-14)
    * [2021-07-13](#2021-07-13)
    * [2021-07-12](#2021-07-12)
    * [2021-07-11](#2021-07-11)
@@ -254,12 +258,33 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
-## 2021-07-14
+## 2021-07-17
+
+- [ ] 10x Rounds
+  - 5x D-Ball Tosses
+  - 15x Push-Ups
+  - 10x Ball Slams
+
+## 2021-07-16
+
+- [ ] 1x Round Of:
+  - 100x Alternating DB Snatch
+  - 75x Alternating DB Clean & Jerk
+  - 50x Single Arm DB Thrusters
+
+## 2021-07-15
 
 - [ ] 5x Rounds:
   - 10x KB Swings
   - 15x Goblet Squats
   - 15x Push-Ups
+
+## 2021-07-14
+
+- [ ] EMOM x21 Minutes:
+  - 25x Double-Unders
+  - 10x Double DB Snatches
+  - 100m Farmer Carry
 
 ## 2021-07-13
 
