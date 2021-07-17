@@ -258,26 +258,76 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-07-24
+
+- [ ] 6x Rounds
+  - 10x Single Arm DB Clean and Press
+  - 10x Burpees
+  - 12x Single Arm Overhead Lunges 
+
+## 2021-07-23
+
+- [ ] 5x Rounds:
+  - 12x DB Deadlifts
+  - 9x DB Hang Power Cleans
+  - 6x Push-Press
+
+## 2021-07-22
+
+- [ ] 5x Rounds
+  - 7x DB Thrusters
+  - 15x Push-Ups
+  - 10x KB Snatches
+
+## 2021-07-21
+
+- [ ] Every 2x Minutes x 30 Minutes:
+  - 8x D-Ball Tosses
+  - 8x Deadlifts
+  - 8x Power Cleans
+  - 8x Push-Presses
+
+## 2021-07-20
+
+- [ ] 10x Rounds:
+  - 3x Devils Presses
+  - 12x Alternating DB Suitcase Lunges
+  - 20x Squats
+
+## 2021-07-19
+
+- [ ] 50x Reps Of:
+  - DB Deadlift + DB Clean + DB Thruster + DB Push-Press + DB Overhead Lunge
+
+## 2021-07-18
+
+- [ ] EMOM x 14 Minutes
+  - 10x Thrusters
+  - 20x DB Alternating Snatches
+
+
 ## 2021-07-17
-
-- [ ] EMOM x21 Minutes:
-  - 25x Double-Unders
-  - 10x Double DB Snatches
-  - 100m Farmer Carry
-
-## 2021-07-16
 
 - [ ] 1x Round Of:
   - 100x Alternating DB Snatch
   - 75x Alternating DB Clean & Jerk
   - 50x Single Arm DB Thrusters
 
+## 2021-07-16
+
+- [x] EMOM x21 Minutes:
+  - 25x Double-Unders
+  - 10x Double DB Snatches
+  - 100m Farmer Carry
+
 ## 2021-07-15
 
-- [ ] 5x Rounds:
+- [x] 5x Rounds:
   - 10x KB Swings
   - 15x Goblet Squats
   - 15x Push-Ups
+
+https://vimeo.com/575630644
 
 ## 2021-07-14
 
