@@ -320,6 +320,8 @@ Daily Dose (Workout log)
   - 75x Alternating DB Clean & Jerk
   - 50x Single Arm DB Thrusters
 
+https://vimeo.com/576289716
+
 ## 2021-07-16
 
 - [x] EMOM x21 Minutes:
