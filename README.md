@@ -5,6 +5,13 @@ Daily Dose (Workout log)
 
 * [Sample Demo Videos](#sample-demo-videos)
 
+   * [2021-07-24](#2021-07-24)
+   * [2021-07-23](#2021-07-23)
+   * [2021-07-22](#2021-07-22)
+   * [2021-07-21](#2021-07-21)
+   * [2021-07-20](#2021-07-20)
+   * [2021-07-19](#2021-07-19)
+   * [2021-07-18](#2021-07-18)
    * [2021-07-17](#2021-07-17)
    * [2021-07-16](#2021-07-16)
    * [2021-07-15](#2021-07-15)
@@ -263,7 +270,7 @@ Daily Dose (Workout log)
 - [ ] 6x Rounds
   - 10x Single Arm DB Clean and Press
   - 10x Burpees
-  - 12x Single Arm Overhead Lunges 
+  - 12x Single Arm Overhead Lunges
 
 ## 2021-07-23
 
