@@ -5,6 +5,7 @@ Daily Dose (Workout log)
 
 * [Sample Demo Videos](#sample-demo-videos)
 
+   * [2021-07-25](#2021-07-25)
    * [2021-07-24](#2021-07-24)
    * [2021-07-23](#2021-07-23)
    * [2021-07-22](#2021-07-22)
@@ -265,6 +266,11 @@ Daily Dose (Workout log)
 
 # 2021 Workouts
 
+## 2021-07-25
+
+- [ ] 50x Reps Of:
+  - DB Deadlift + DB Clean + DB Thruster + DB Push-Press + DB Overhead Lunge
+
 ## 2021-07-24
 
 - [ ] 6x Rounds
@@ -303,15 +309,19 @@ Daily Dose (Workout log)
 
 ## 2021-07-19
 
-- [ ] 50x Reps Of:
-  - DB Deadlift + DB Clean + DB Thruster + DB Push-Press + DB Overhead Lunge
-
-## 2021-07-18
-
 - [ ] EMOM x 14 Minutes
   - 10x Thrusters
   - 20x DB Alternating Snatches
 
+## 2021-07-18
+
+
+
+- [x] 10x Rounds:
+  - 6x D-Ball Clean (@90#)
+  - 6x D-Ball Step-Ups (@90#)
+
+https://vimeo.com/576588975
 
 ## 2021-07-17
 
