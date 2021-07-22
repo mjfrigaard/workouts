@@ -294,28 +294,30 @@ Daily Dose (Workout log)
 
 ## 2021-07-21
 
-- [ ] Every 2x Minutes x 30 Minutes:
+- [x] EMOM x32 Minutes:
   - 8x D-Ball Tosses
   - 8x Deadlifts
   - 8x Power Cleans
   - 8x Push-Presses
 
+https://vimeo.com/577862433
+
 ## 2021-07-20
 
-- [ ] 10x Rounds:
+- [x] 10x Rounds:
   - 3x Devils Presses
   - 12x Alternating DB Suitcase Lunges
   - 20x Squats
 
 ## 2021-07-19
 
-- [ ] EMOM x 14 Minutes
+- [x] EMOM x 14 Minutes
   - 10x Thrusters
   - 20x DB Alternating Snatches
 
+https://vimeo.com/576977066
+
 ## 2021-07-18
-
-
 
 - [x] 10x Rounds:
   - 6x D-Ball Clean (@90#)
